@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello everyone! 👋 I'm Matthew
 
+### About Me
 <!--
 **matthewmathesius/matthewmathesius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
